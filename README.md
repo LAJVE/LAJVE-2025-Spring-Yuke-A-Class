@@ -1,1 +1,1 @@
-# LAJVE-2025-Spring-Yuke-A-Class
+A place to store the handouts, homeworks and answers.
